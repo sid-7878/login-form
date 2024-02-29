@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    display: flex;
+    justify-content: center;
+
+}
+form{
+    width: 25%;
+    border: 2px solid grey;
+    margin-top: 30px;
+    padding: 20px 30px 20px 30px;
+}
+
+.wel{
+    color:orange;
+    text-align:center;
+}
+img{
+    width:70px;
+    height: 70px;
+    border-radius: 100%;
+    margin-left: 130px;
+    
+}
+h1,h4{
+    text-align: center;
+}
+.one{
+    width: 90%;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-left: 25px;
+
+}
+#a{
+    position:relative;
+}
+.fa-user{
+    position: absolute;
+    bottom: 25%;
+    left: 3%;
+}
+#b{
+    position: relative;
+}
+.fa-lock{
+    position: absolute;
+    top: 50%;
+    left: 3%;
+}
+a{
+    text-align: right;
+    margin-left: 60px;
+}
+button{
+    width:90%;
+    color: black;
+    background-color: yellow;
+    margin-top: 20px ;
+    margin-left: 10px;
+    height: 35px;
+    border-radius: 10px;
+    position: relative;
+    
+}
+.fa-right-to-bracket{
+    position: absolute;
+    top: 80%;
+    left: 52%;
+}
+
+
+#c{
+    display: flex;
+    justify-content: end;
+}
+
+
+
+
+
+
